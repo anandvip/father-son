@@ -15,7 +15,7 @@ body {
 		grid-area: sidebar;
   height:calc(5*100px);
   border-top-left-radius:20px;
-  background-image: url('/img/sirvagyaSon.JPG');
+  background-image: url('img/sirvagyaSon.JPG');
   background-repeat:no-repeat;
   background-size:cover;
   background-position:center;
@@ -61,7 +61,7 @@ body {
 		color: #444;
     justify-content:center;
     align-items:center;
-    background-image: url(/img/bmw.jpg);
+    background-image: url(img/bmw.jpg);
     background-size: cover;
     background-repeat: no-repeat;
     background-position: center;
